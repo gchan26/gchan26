@@ -1,6 +1,6 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=beatriznonato&repo=davisjr2000&countColorcountColor)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=beatriznonato&repo=gchan26&countColorcountColor)
 
-<img align="right" src="https://res.cloudinary.com/dd7bkl8rd/image/upload/v1627927959/gui1_wezrdu.png" width="260" />
+<img align="right" src="https://res.cloudinary.com/dd7bkl8rd/image/upload/v1627927959/gui1_wezrdu.png" width="260""/>
 
 <div align="center">
  <h1> 

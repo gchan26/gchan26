@@ -44,6 +44,8 @@
   <img src="https://user-images.githubusercontent.com/35739995/122655117-7c577180-d126-11eb-9b30-3591b1252bb5.png">&nbsp;
   <!-- Figma Icon -->
   <img height='33' src="https://user-images.githubusercontent.com/63321613/127909304-f0ae4399-db7d-4bec-b1e0-adc798d38782.png">&nbsp;
+  <!-- Expo Icon  -->
+  <img height='33' src="https://user-images.githubusercontent.com/63321613/149579974-3a76f303-70a5-4752-a765-278ea946318f.jpeg">&nbsp;
 </p>
 
 <table align="left">

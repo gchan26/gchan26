@@ -1,5 +1,3 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=beatriznonato&repo=gchan26&countColorcountColor)
-
 <img align="right" src="https://res.cloudinary.com/dd7bkl8rd/image/upload/v1627927959/gui1_wezrdu.png" width="260"/>
 
 <div align="center">
@@ -39,7 +37,9 @@
   <!-- SCSS Icon -->
   <img height='33' src="https://user-images.githubusercontent.com/63321613/127906476-08f0e3a4-d486-4f84-9c87-04ead2bf2785.png">&nbsp;
   <!-- React Icon -->
-  <img src="https://user-images.githubusercontent.com/35739995/122655062-094dfb00-d126-11eb-963a-44b2ef1528f2.png">&nbsp;
+  <img height='33' src="https://user-images.githubusercontent.com/35739995/122655062-094dfb00-d126-11eb-963a-44b2ef1528f2.png">&nbsp;
+   <!-- Angular Icon -->
+  <img height='33' src="https://user-images.githubusercontent.com/63321613/219405500-b4728312-1281-40c9-96dc-3ca2ed83a36b.png">&nbsp;
   <!-- Git Icon -->
   <img src="https://user-images.githubusercontent.com/35739995/122655117-7c577180-d126-11eb-9b30-3591b1252bb5.png">&nbsp;
   <!-- Figma Icon -->

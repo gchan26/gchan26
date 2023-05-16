@@ -48,14 +48,15 @@
   <img height='33' src="https://user-images.githubusercontent.com/63321613/149580312-964ae8d8-e249-4a4d-85f3-760bf2dcbe0e.png">&nbsp;
 </p>
 
-<table align="left">
+<!-- <table align="left">
   <row>
     <td>
      <!-- Card -->
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gchan26&layout=compact&theme=react'>
+<!--       <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gchan26&layout=compact&theme=react'>
     </td>
-    <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=gchan26&show_icons=true&theme=react'>
+    <td> -->
+<!--       <img height='172' src='https://github-readme-stats.vercel.app/api?username=gchan26&show_icons=true&theme=react'>
     </td>
-  </row>
-</table> 
+  </row> -->
+<!-- </table>  -->
+ 
